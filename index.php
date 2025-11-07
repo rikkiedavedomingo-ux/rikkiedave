@@ -67,11 +67,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
     .news {
       padding: 0 2%;
-      border: 1px solid #d2d2d2;
+      border: 1px solid #ffffffff;
     }
     .title  {
       text-align: center;
-      background: #c81c1c;
+      background: #ff0000ff;
       position: relative;
       display: block;
     }
@@ -87,15 +87,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     .news-content p {
       margin-right: 41px;
       display: inline;
-      color: #37423b;
+      color: #3c8156ff;
       animation: marquee 32s linear infinite;
     }
     .news-content a {
-      color: #37423b;
+      color: #3c8f5aff;
     }
 
     .news-content a:hover {
-      color: #FF3302;
+      color: #ff4a02ff;
     }
 
     .news:hover {
